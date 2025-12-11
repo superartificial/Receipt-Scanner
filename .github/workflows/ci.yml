@@ -66,17 +66,16 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Install CMake
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y cmake ninja-build
-          cmake --version
-
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.27.2'
           channel: 'stable'
+
+      - name: Install Android SDK CMake
+        run: |
+          yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager "cmake;3.22.1"
+          echo "cmake.dir=$ANDROID_HOME/cmake/3.22.1" >> $GITHUB_ENV
 
       - name: Get dependencies
         run: flutter pub get
