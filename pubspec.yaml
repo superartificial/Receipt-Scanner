@@ -43,9 +43,6 @@ dependencies:
   # OCR
   google_mlkit_text_recognition: ^0.13.0
 
-  # LLM
-  flutter_llama: ^1.1.2
-
   # Database
   drift: ^2.20.0
   sqlite3_flutter_libs: ^0.5.24
