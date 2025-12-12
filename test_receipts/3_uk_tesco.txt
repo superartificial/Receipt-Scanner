@@ -1,0 +1,30 @@
+TESCO
+Express Store #2456
+High Street, Camden
+London NW1 7JN
+Tel: 020 7946 0958
+
+Date: 15/11/2024
+Time: 14:32
+
+Tesco Milk Semi 2L      £1.35
+Warburtons Bread        £1.20
+Free Range Eggs 6       £2.40
+Bananas Loose           £0.89
+Cheddar Cheese 400g     £3.50
+PG Tips Tea 80s         £2.99
+Coca Cola 2L            £1.85
+Hovis Granary 800g      £1.45
+
+Clubcard Discount      -£0.65
+
+Subtotal               £14.98
+VAT @ 0%               £0.00
+TOTAL                  £14.98
+
+Payment: Contactless
+Card: VISA Debit ****6723
+
+Clubcard Points Earned: 15
+
+Thank you for shopping at Tesco

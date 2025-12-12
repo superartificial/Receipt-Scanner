@@ -1,0 +1,25 @@
+SHELL
+Gas Station #8432
+2340 Highway 101
+San Jose, CA 95110
+
+Date: 12/08/2024
+Time: 3:17 PM
+Pump: 07
+
+Product: UNLEADED 87
+Gallons: 14.523 gal
+Price/Gal: $3.899
+Fuel Total: $56.62
+
+Car Wash Premium    $12.00
+
+SUBTOTAL           $68.62
+Sales Tax           $4.80
+TOTAL              $73.42
+
+MASTERCARD ****1987
+Auth Code: 045821
+Trans ID: 7654321
+
+Thank you for choosing Shell!

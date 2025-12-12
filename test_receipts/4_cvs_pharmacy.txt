@@ -1,0 +1,48 @@
+CVS/pharmacy
+Store #09845
+1250 Main Street
+Chicago, IL 60614
+(312) 555-7788
+
+ExtraCare Card: ****2847
+Register: 04
+Trans #: 8472-3891-2847
+Date: 02/20/2024  10:45 AM
+
+PRESCRIPTION ITEMS
+Rx #394857
+ATORVASTATIN 20MG         $15.00
+
+OTC & RETAIL ITEMS
+CVS Health Pain Relief    $8.99
+Kleenex Tissues 3pk      $5.49
+Advil Liqui-Gels 80ct   $13.99
+Vitamin D3 2000IU       $12.99
+Hand Sanitizer 8oz       $4.99
+
+Store Coupon            -$2.00
+ExtraBucks Rewards      -$5.00
+
+SUBTOTAL                $54.45
+Tax (6.25%)             $2.84
+TOTAL                   $57.29
+
+VISA DEBIT ****3421
+APPROVED - THANK YOU
+
+ExtraBucks Earned: $8.00
+Valid 03/01/24 - 03/31/24
+
+----------------------------------------
+[COUPON] $3 off $15 Purchase
+Valid through 03/15/2024
+Barcode: 392847563920
+----------------------------------------
+
+[COUPON] 20% Off CVS Brand
+Valid through 03/30/2024
+Barcode: 938475629102
+----------------------------------------
+
+Survey: www.cvs.com/survey
+Code: 94729-38475-29384
